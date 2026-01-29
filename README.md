@@ -32,8 +32,11 @@ The report evaluates Elon Musk’s $54.20 per share offer, noting a control prem
 To achieve a reliable comparison of Twitter’s value and Musk’s offer, an Independent Expert’s Report would be required. This study highlights the challenges of using a single comparator in a volatile market where risk and growth potential differ significantly between firms.
 Ultimately, this analysis demonstrates that while quantitative multiples suggest an overvaluation, the qualitative risks—such as Meta’s strategic pivot and Twitter’s platform integrity issues—are the primary drivers of the observed valuation gap.
 
+## Repository Structure
+* **[documents](./documents)**: Contains the official SEC filings (10-K, 10-Q, 8-K) used for financial modeling.
+* **[Valuation_Case_Study_Twitter_Meta.pdf](./Twitter_Valuation_Report.pdf)**: Detailed academic report covering the valuation methodology and findings.
+
 ## Data Sources
-The analysis is based on the following official SEC filings. Copies of the reports used are available in the [documents](./documents) folder of this repository.
 
 ### Meta Platforms, Inc.
 * [2021 Form 10-K (Annual Report)](./documents/Meta-10K-Feb2022.pdf)
